@@ -1,2 +1,1 @@
-# AK
-My life projects.
+None.
